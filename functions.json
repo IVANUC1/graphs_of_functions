@@ -1,0 +1,38 @@
+[
+    {
+        "funk": "2*sqrt(2)*sin(x)*cos(x)-cos(x)-sin(x)",
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "show": false
+    },
+    {
+        "funk": "tanh(x)*2",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "show": true
+    },
+    {
+        "funk": "5*x",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "show": false
+    },
+    {
+        "funk": "x**2/25",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "show": false
+    }
+]
