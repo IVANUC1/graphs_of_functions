@@ -11,7 +11,7 @@ if platform.system() == "Windows":
 else:
     OS = 'linux'
 
-# game settings
+# game settingsgi
 mouse_act = False
 dev_mod = False
 act = True
@@ -255,6 +255,8 @@ while running:
             if event.key == pygame.K_F5:
                 dev_mod = not dev_mod
                 act = True
+            if event.key == pygame.K_F11:
+                pygame.display.toggle_fullscreen()
             if event.key == pygame.K_UP:
                 k_up = True
                 act = True
