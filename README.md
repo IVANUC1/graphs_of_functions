@@ -11,6 +11,8 @@ arrows or left mouse button - move,
 
 F5 - dev mode,
 
+F11 - window mode
+
 if dev mode on:
 
 F1 - increase multiplier,
@@ -20,5 +22,3 @@ F2 - decrease multiplier,
 F3 - increase definition,
 
 F4 - decrease definition,
-
-F11 - window mode
